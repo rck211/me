@@ -2,7 +2,6 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-
 }
 
 h1 {
@@ -103,7 +102,7 @@ hr{
   width: 175px;
   left: 150px;
   bottom: 300px;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 
